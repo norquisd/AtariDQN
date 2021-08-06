@@ -1,2 +1,2 @@
 # AtariDQN
-![screen-gif](./pong.mp4)
+![screen-gif](./breakout.gif)
